@@ -38,8 +38,8 @@ This widget reads that same number — plus current period spend, monthly tier c
 ## Installation
 
 ```bash
-git clone https://github.com/arpan-ghosh/claude-credit-balance-floating-widget.git
-cd claude-credit-balance-floating-widget
+git clone https://github.com/arpan-ghosh/claude-spend-pulse.git
+cd claude-spend-pulse
 ./build.sh
 open build/ClaudeCreditWidget.app
 ```
